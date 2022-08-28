@@ -1,0 +1,5 @@
+bykes 100 56 77
+watermelons 200 2 3
+oranges 300 3 5
+pizza 500 1 1
+cars 5 213 321
